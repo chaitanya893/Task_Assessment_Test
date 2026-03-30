@@ -1,0 +1,16 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+SQLAlchemy==2.0.29
+psycopg2-binary==2.9.9
+pydantic==2.6.4
+python-dotenv==1.0.1
+passlib[bcrypt]==1.7.4
+python-jose[cryptography]==3.3.0
+python-multipart==0.0.9
+pdfplumber
+chromadb==0.4.24
+sentence-transformers==2.6.1
+requests==2.31.0
+SpeechRecognition
+pydub
+httpx
